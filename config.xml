@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "soher.appto11.com"
+    versionCode="11"
+    version   = "1.0.3">
+
+  <!-- versionCode is optional and Android only -->
+
+  <name>The exporter</name>
+  <icon src="priate-256.png" width="512" height="512"></icon>
+  <description>
+   import/export over the sea
+  </description>
+  <preference name="show-splash-screen-spinner" value="false" />
+  <preference name="stay-in-webview" value="true" />
+  <preference name="phonegap-version" value="2.3.0" />
+  <plugin name="File" value="org.apache.cordova.FileUtils" />
+  
+  <author href="https://build.phonegap.com" email="support@phonegap.com">
+   Appto11.com
+  </author>
+  <access origin="*" />
+  <access origin="http://appto11.com" />
+  <access origin="http://www.appto11.com" />
+  <access prgom="http://mokojo.appto11.com/" />
+  <access origin="http://azurewebsites.net/" />
+  <access origin="http://html5assets.azurewebsites.net/" />
+</widget>
