@@ -8,7 +8,7 @@
   <!-- versionCode is optional and Android only -->
 
   <name>Space Dealer</name>
-  <icon src="p4.png" width="50" height="50"></icon>
+  <icon src="rocketBig.png" width="511" height="273"></icon>
   <description>
    import/export over space
   </description>
